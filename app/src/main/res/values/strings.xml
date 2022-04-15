@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="text_hi">text_hi</string>
+    <string name="setting">setting</string>
+    <string name="archive">archive</string>
+    <string name="message">message</string>
+    <string name="close_friends">close friend</string>
+    <string name="likes">likes</string>
+
+</resources>
