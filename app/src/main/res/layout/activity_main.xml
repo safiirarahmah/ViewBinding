@@ -54,6 +54,12 @@
         android:text="@string/text_hi"
         android:textSize="24dp"/>
 
-
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/text_hi"
+        android:textSize="24dp"/>
 
 </LinearLayout>
